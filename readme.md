@@ -1,5 +1,5 @@
 # Example Project
 
-Framework: React
-Language: Typescript
+Framework: React <br />
+Language: Typescript <br />
 Bundler: Parcel
